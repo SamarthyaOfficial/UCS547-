@@ -7,6 +7,6 @@ Semester: 6th
 
 Branch: ENC
 
-Sub-Group: 3Q11
+Sub-Group: 3O11
 
 Course Instructor: Dr. Manisha Malik
